@@ -8,7 +8,8 @@ There are multiple options from which we can choose whether to delete, insert, t
 ?	Third Option is to get the sorted list of the elements.
 ?	Fourth option is to get the height of the tree.
 ?	Fifth Option is to get the size of the tree.
-After every option this program ask the user to continue if the user press Y or y the program continues and the user can select the option he wishes for or if he presses N or n the program ends .
+After every option this program ask the user to continue if the user press Y or y the program continues and the user can select the
+ option he wishes for or if he presses N or n the program ends .
 This code runs on visual studio 2013.
 
 GROUP MEMBERS:
